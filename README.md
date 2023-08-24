@@ -49,7 +49,7 @@ Here are some screenshots of the Mail Sending Application in action:
 <br> 
 ![Screenshot 2](screenshots/screenshot-1.png)
 <br>
-![Screenshot 3](screenshots/screenshot-2.png)
+![Screenshot 3](screenshots/screenshot-3.png)
 
 ## License
 
